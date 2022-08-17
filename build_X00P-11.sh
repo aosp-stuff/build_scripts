@@ -11,7 +11,7 @@ git clone -b lineage-18.1 https://github.com/LineageOS/android_external_ant-wire
 git clone -b lineage-18.1 https://github.com/LineageOS/android_external_ant-wireless_ant_native external/ant-wireless/ant_native
 
 git clone https://github.com/aosp-stuff/platform_external_json-c external/json-c
-git clone https://github.com/aosp-stuff/platform_external_libbfqio exernal/libbfqio
+git clone https://github.com/aosp-stuff/platform_external_libbfqio external/libbfqio
 
 git clone -b android-11 https://github.com/aosp-stuff/platform_hardware_qcom-caf_msm8996_audio hardware/qcom-caf/msm8996/audio
 git clone -b android-11 https://github.com/aosp-stuff/platform_hardware_qcom-caf_msm8996_display hardware/qcom-caf/msm8996/display
