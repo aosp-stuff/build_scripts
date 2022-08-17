@@ -23,6 +23,7 @@ git clone -b android-10 https://github.com/aosp-stuff/platform_vendor_qcom_opens
 git clone -b lineage-17.1 https://github.com/LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr vendor/qcom/opensource/data-ipa-cfg-mgr
 git clone -b android-10 https://github.com/aosp-stuff/platform_vendor_qcom_opensource_power vendor/qcom/opensource/power
 
+git clone -b android-10 https://github.com/aosp-stuff/device_qcom_sepolicy-legacy-um device/qcom/sepolicy-legacy-um
 git clone -b android-10 https://github.com/aosp-stuff/device_asus_X00P device/asus/X00P
 git clone -b android-10 https://github.com/aosp-stuff/device_asus_X00P-kernel device/asus/X00P-kernel
 git clone -b android-10 https://github.com/aosp-stuff/device_asus_X00P-sepolicy device/asus/X00P-sepolicy
